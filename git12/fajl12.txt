@@ -1,0 +1,5 @@
+nesto sto se nalazi u fajlu12
+
+dodao pomocu komande nano
+
+sacuvaj na crt x
